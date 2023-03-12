@@ -1,0 +1,1 @@
+document.getElementById("os").innerHTML = navigator.platform;
